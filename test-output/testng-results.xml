@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-21T19:40:43 MDT" name="Default suite" finished-at="2025-10-21T19:40:47 MDT" duration-ms="4310">
+  <suite started-at="2025-10-21T19:54:37 MDT" name="Default suite" finished-at="2025-10-21T19:54:42 MDT" duration-ms="5231">
     <groups>
     </groups>
-    <test started-at="2025-10-21T19:40:43 MDT" name="Default test" finished-at="2025-10-21T19:40:47 MDT" duration-ms="4310">
-      <class name="com.testscenarios.HyperlinkDemo">
-        <test-method signature="f()[pri:0, instance:com.testscenarios.HyperlinkDemo@4e08711f]" started-at="2025-10-21T19:40:43 MDT" name="f" finished-at="2025-10-21T19:40:47 MDT" duration-ms="4254" status="PASS">
+    <test started-at="2025-10-21T19:54:37 MDT" name="Default test" finished-at="2025-10-21T19:54:42 MDT" duration-ms="5231">
+      <class name="com.testscenarios.GetTextDemo">
+        <test-method signature="f()[pri:0, instance:com.testscenarios.GetTextDemo@4e08711f]" started-at="2025-10-21T19:54:37 MDT" name="f" finished-at="2025-10-21T19:54:42 MDT" duration-ms="5184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-      </class> <!-- com.testscenarios.HyperlinkDemo -->
+      </class> <!-- com.testscenarios.GetTextDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
