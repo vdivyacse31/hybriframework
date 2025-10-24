@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testscenarios.HyperlinkTest8">
+      <class name="com.testscenarios.Flightbooking">
         <methods>
-          <include name="A"/>
+          <include name="basedemoflightdemo"/>
         </methods>
-      </class> <!-- com.testscenarios.HyperlinkTest8 -->
+      </class> <!-- com.testscenarios.Flightbooking -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
