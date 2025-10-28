@@ -43,7 +43,7 @@ public class Flightbooking {
 			
 			// take screenshot code
 			File abc = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			FileHandler.copy(abc, new File("C:\\Users\\divya\\eclipse-workspace\\Hybrid_Famework\\screenshots\\blazedemo.com"));
+			FileHandler.copy(abc, new File(".\\screenshots\\blazedemo.PNG"));
 			
 			
 			
