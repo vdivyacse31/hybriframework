@@ -2,7 +2,6 @@ package com.testscenarios;
 
 
 
-import java.awt.Window;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
