@@ -52,12 +52,13 @@ public class CommonFuntions {
 		return timestamp;
 	}
 
+	
 	// Verify any WebElement is displayed on current screen
 	public void verifyWebElement(By locator) {
 		if (driver.findElements(locator).size() > 0) {
-			System.out.println("The given locator is displayed on screen****");
+			System.out.println(locator + " locator is displayed on screen****");
 		} else {
-			System.out.println("The given locator is NOT displayed on screen****");
+			System.out.println(locator + " locator is NOT displayed on screen****");
 		}
 	}
 

@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-28T09:25:22 EDT" name="Default suite" finished-at="2025-10-28T09:25:42 EDT" duration-ms="19914">
+  <suite started-at="2025-10-29T19:33:45 MDT" name="Default suite" finished-at="2025-10-29T19:34:06 MDT" duration-ms="21593">
     <groups>
     </groups>
-    <test started-at="2025-10-28T09:25:22 EDT" name="Default test" finished-at="2025-10-28T09:25:42 EDT" duration-ms="19914">
+    <test started-at="2025-10-29T19:33:45 MDT" name="Default test" finished-at="2025-10-29T19:34:06 MDT" duration-ms="21593">
       <class name="com.automationexercise_testscenario.TS_01_Registration">
-        <test-method signature="tc_01()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@175c2241]" started-at="2025-10-28T09:25:22 EDT" name="tc_01" finished-at="2025-10-28T09:25:28 EDT" duration-ms="5968" status="PASS">
+        <test-method signature="tc_01()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@7a8c8dcf]" started-at="2025-10-29T19:33:45 MDT" name="tc_01" finished-at="2025-10-29T19:33:53 MDT" duration-ms="8046" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_01 -->
-        <test-method signature="tc_02()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@175c2241]" started-at="2025-10-28T09:25:28 EDT" name="tc_02" finished-at="2025-10-28T09:25:32 EDT" duration-ms="3673" status="PASS">
+        <test-method signature="tc_02()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@7a8c8dcf]" started-at="2025-10-29T19:33:53 MDT" name="tc_02" finished-at="2025-10-29T19:33:56 MDT" duration-ms="3181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_02 -->
-        <test-method signature="tc_03()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@175c2241]" started-at="2025-10-28T09:25:32 EDT" name="tc_03" finished-at="2025-10-28T09:25:35 EDT" duration-ms="2695" status="PASS">
+        <test-method signature="tc_03()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@7a8c8dcf]" started-at="2025-10-29T19:33:56 MDT" name="tc_03" finished-at="2025-10-29T19:33:57 MDT" duration-ms="1459" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_03 -->
-        <test-method signature="tc_04()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@175c2241]" started-at="2025-10-28T09:25:35 EDT" name="tc_04" finished-at="2025-10-28T09:25:36 EDT" duration-ms="1660" status="PASS">
+        <test-method signature="tc_04()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@7a8c8dcf]" started-at="2025-10-29T19:33:57 MDT" name="tc_04" finished-at="2025-10-29T19:34:01 MDT" duration-ms="3572" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_04 -->
-        <test-method signature="tc_05()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@175c2241]" started-at="2025-10-28T09:25:36 EDT" name="tc_05" finished-at="2025-10-28T09:25:42 EDT" duration-ms="5824" status="PASS">
+        <test-method signature="tc_05()[pri:0, instance:com.automationexercise_testscenario.TS_01_Registration@7a8c8dcf]" started-at="2025-10-29T19:34:01 MDT" name="tc_05" finished-at="2025-10-29T19:34:06 MDT" duration-ms="5245" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_05 -->
