@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DivyaSuite">
+	<test thread-count="5" name="DivyaTestResults">
+		<classes>
+			<!-- <class name="com.automationexercise_testscenario.TS_01_Registration" />
+			<class name="com.automationexercise_testscenario.TS_02_LoginAndLogout" />	 -->
+			 <class name="com.automationexercise_testscenario.TS_03_ShoppingCart" />
+			<class name="com.automationexercise_testscenario.TS_04_ValidateSearching" />
+			<class name="com.automationexercise_testscenario.TS_08_WriteReview" />		
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

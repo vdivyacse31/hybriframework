@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automationexercise_testscenario.TS_03_ShoppingCart">
+      <class name="com.automationexercise_testscenario.TS_04_ValidateSearching">
         <methods>
-          <include name="f"/>
+          <include name="searchProduct"/>
         </methods>
-      </class> <!-- com.automationexercise_testscenario.TS_03_ShoppingCart -->
+      </class> <!-- com.automationexercise_testscenario.TS_04_ValidateSearching -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

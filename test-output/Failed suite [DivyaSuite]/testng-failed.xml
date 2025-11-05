@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [DivyaSuite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DivyaTestResults(failed)(failed)">
+    <classes>
+      <class name="com.automationexercise_testscenario.TS_08_WriteReview">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.automationexercise_testscenario.TS_08_WriteReview -->
+    </classes>
+  </test> <!-- DivyaTestResults(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [DivyaSuite]] -->

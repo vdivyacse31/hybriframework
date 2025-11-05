@@ -2,14 +2,26 @@ package com.automationexercise_testscenario;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.TakesScreenshot;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.utilities.CommonFuntions;
 
 public class TS_02_LoginAndLogout extends CommonFuntions {
+	@Parameters("browserName")
 	@Test
-	public void f() throws Exception {
-		chromeBrowserLaunch();
+	public void f(String browserName) throws Exception {
+
+		if (browserName.equalsIgnoreCase("Firefox")) {
+			firefoxBrowserLaunch();
+		} else if (browserName.equalsIgnoreCase("Edge")) {
+			edgeBrowserLaunch();
+		} else if (browserName.equalsIgnoreCase("Chrome")) {
+			chromeBrowserLaunch();
+		} else {
+			System.out.println("Please provide valid browser name***");
+		}
+
 		driver.get("https://automationexercise.com");
 		Thread.sleep(2000);
 		driver.findElement(By.linkText("Signup / Login")).click();
@@ -20,6 +32,6 @@ public class TS_02_LoginAndLogout extends CommonFuntions {
 		Thread.sleep(2000);
 		driver.findElement(By.linkText("Logout")).click();
 		takeScreenshot("TS_02_LoginAndLogout");
-		
+
 	}
 }
