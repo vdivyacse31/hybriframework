@@ -3,8 +3,8 @@
 <suite name="DivyaSuite">
 	<test thread-count="5" name="DivyaTestResults">
 		<classes>
-			<!-- <class name="com.automationexercise_testscenario.TS_01_Registration" />
-			<class name="com.automationexercise_testscenario.TS_02_LoginAndLogout" />	 -->
+			<class name="com.automationexercise_testscenario.TS_01_Registration" />
+			<class name="com.automationexercise_testscenario.TS_02_LoginAndLogout" />	
 			 <class name="com.automationexercise_testscenario.TS_03_ShoppingCart" />
 			<class name="com.automationexercise_testscenario.TS_04_ValidateSearching" />
 			<class name="com.automationexercise_testscenario.TS_08_WriteReview" />		
